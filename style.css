@@ -1,0 +1,9 @@
+body {
+    background-color: #1c1c1c;
+}
+.centerline {
+    align-self: center;
+}
+.increasedmargin {
+    margin-bottom: 15px;
+}
